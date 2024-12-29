@@ -1,10 +1,10 @@
-import Image from "next/image";
-import Navbar from "@/components/Navbar";
+import Login from "@/components/Login"
 export default function Home() {
   return (
     <div className="text-blue-600" >
       {/* <Home/> */}
-      <Navbar/>
+     
+      <Login/>
     delivery app
     vf
     </div>
